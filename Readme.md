@@ -45,3 +45,18 @@ Check out here: https://youtu.be/BraDB9e_p4E
 git clone https://github.com/dv-learn/langgraph-journey-sam.git
 cd langgraph-journey-sam
 pip install -r requirements.txt
+
+🌟 Why This Project?
+Learning LangGraph and LLM apps doesn’t have to be dry.
+This project brings imagination + code together — helping developers and storytellers build better agentic systems with personality.
+
+🧵 Stay Connected
+Follow the creator on:
+
+🎙️ YouTube
+
+🧠 LinkedIn
+
+🧪 Twitter / X
+
+Made with ❤️ using LangGraph and LangChain
